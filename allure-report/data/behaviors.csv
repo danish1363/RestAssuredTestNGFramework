@@ -1,0 +1,6 @@
+"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
+"0","Spotify Oauth 2.0","0","Playlist Api Testing","1","0","get Playlist","0"
+"0","Spotify Oauth 2.0","0","Playlist Api Testing","1","0","Create_Playlist_Without_name_Field","0"
+"0","Spotify Oauth 2.0","0","Playlist Api Testing","1","0","Create_Playlist_With_Expired_Token","0"
+"0","Spotify Oauth 2.0","0","Playlist Api Testing","1","0","Update playlist","0"
+"0","Spotify Oauth 2.0","0","Playlist Api Testing","1","0","Create Playlist","0"
